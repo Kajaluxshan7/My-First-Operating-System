@@ -5,7 +5,7 @@
     
     int main(){
 
-           char ptr2[] = "Welcome to CarbonOS";
+           char ptr2[] = "Welcome to OS";
    
     
     serial_write(0x3F8, ptr2, 19);
